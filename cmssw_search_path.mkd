@@ -1,0 +1,3 @@
+# How to append a path to CMSSW_SEARCH_PATH
+echo 'export CMSSW_SEARCH_PATH=/new/path:$CMSSW_SEARCH_PATH' >> ~/.bashrc
+source ~/.bashrc
