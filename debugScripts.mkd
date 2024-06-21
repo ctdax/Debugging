@@ -1,0 +1,6 @@
+# gdb is a helpful tool for debugging scripts and especially seg faults when using cmsRun
+```
+gdb --args <COMMAND TO RUN YOUR SCRIPT>
+run
+backtrace
+```
