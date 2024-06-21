@@ -3,5 +3,6 @@
 - Kill the remote vscode-server via command+shift+p
 - Manually delete the .vscode-server directly via a seperate terminal
 - Disable the ExecServer option in the settings if it is not already
+- Make sure that the server has enough space
 - Check the error log by pulling up the terminal when attempting to ssh, going to output, and selecting Remote-SSH
 - Downgrade the Remote-SSH extension or vscode
